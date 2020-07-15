@@ -1,12 +1,12 @@
 [package]
-name = "thermite"
+name = "therm"
 version = "0.1.0"
 authors = ["Samuel","Patrick"]
 edition = "2018"
 license = "MIT"
 description = "An attempt at spark-like in rust"
-homepage = "https://github.com/swamulism/thermite"
-repository = "https://github.com/swamulism/thermite"
+homepage = "https://github.com/swamulism/therm"
+repository = "https://github.com/swamulism/therm"
 readme = "README.md"
 
 [dependencies]
